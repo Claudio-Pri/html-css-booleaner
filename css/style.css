@@ -1,0 +1,40 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-image: url("../img/pattern.png");
+    background-size:contain;
+    background-position: center;
+    position: relative;
+    height: 150px;
+    background-color: rgb(24, 121, 181);
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+.logo-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+}
+
+.logo {
+    height: 50px;
+    width: auto;
+}
+main {
+    padding: 5px;
+}
+
+.titolone {
+    margin:0;
+}
+
+
+h4 {
+    margin:0;
+}
+
