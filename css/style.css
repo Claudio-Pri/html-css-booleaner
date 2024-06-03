@@ -29,11 +29,13 @@ body {
     height: 50px;
     width: auto;
 }
+
+
 main, footer {
     padding: 5px;
 
     /* DA INSERIRE PER BONUS */
-     /* width: 70%;
+    /* width: 70%;
     margin: auto; */
 }
 
